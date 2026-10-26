@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+ table {
+            width: 100%;
+        }
+
+        .html-cell {
+            background-color: black;
+            color: white;
+        }
